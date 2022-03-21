@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickyP343
 - 👀 I’m interested in coding stuff that's useful and makes things easier
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on - Nothing yet :)
 <!--- 📫 How to reach me -
 -->
